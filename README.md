@@ -1,4 +1,4 @@
-# 🇰🇷 Korean Island – Apprentissage du Coréen
+# Korean Island – Apprentissage du Coréen
 
 > Plateforme mobile interactive pour l'apprentissage du coréen, conçue pour les francophones.
 
