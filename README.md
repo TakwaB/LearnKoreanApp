@@ -9,18 +9,18 @@
 [![Statut du Projet](https://img.shields.io/badge/Status-En%20D%C3%A9veloppement-yellow.svg )]()
 
 ## Table des Matières
-1. [Description du Projet](#description-du-projet)
+1. [📖 Description du Projet](#description-du-projet)
 2. [✨ Fonctionnalités Clés](#-fonctionnalités-clés)
-3. [Technologies Utilisées](#technologies-utilisées)
-4. [Architecture du Projet](#architecture-du-projet)
-5. [Installation et Démarrage](#installation-et-démarrage)
-6. [Aperçu (Screenshots)](#aperçu-screenshots)
-7. [Contribution](#contribution)
+3. [🛠 Technologies Utilisées](#technologies-utilisées)
+4. [🏗 Architecture du Projet](#architecture-du-projet)
+5. [🚀 Installation et Démarrage](#installation-et-démarrage)
+6. [📸 Aperçu (Screenshots)](#aperçu-screenshots)
+7. [🤝 Contribution](#contribution)
 8. [📄 Licence](#-licence)
 
 ---
 
-## Description du Projet
+## 📖 Description du Projet
 
 **Korean Island** est une application mobile Android dédiée à l'apprentissage du coréen. Notre objectif est de rendre l'acquisition de cette langue accessible, **interactive et motivante** pour la communauté francophone.
 
@@ -38,7 +38,7 @@ L'application propose un parcours complet, allant de l'apprentissage du vocabula
 | | Suivi Personnalisé | Profil utilisateur avec statistiques, leçons terminées et badges obtenus. |
 | **Culture** | Contenus Culturels | Articles et vidéos pour enrichir l'expérience d'apprentissage avec l'histoire et les traditions coréennes. |
 
-## Technologies Utilisées
+## 🛠 Technologies Utilisées
 
 | Composant | Technologie | Version / Note |
 | :--- | :--- | :--- |
@@ -48,11 +48,11 @@ L'application propose un parcours complet, allant de l'apprentissage du vocabula
 | **Interface Utilisateur** | Material Design | Composants AndroidX pour une UI moderne et cohérente. |
 | **Build** | Gradle | Système de construction standard pour Android. |
 
-## Architecture du Projet
+## 🏗 Architecture du Projet
 
 Le projet suit une architecture modulaire, favorisant la séparation des préoccupations (SoC) et facilitant l'évolution. La structure est conçue pour une transition potentielle vers des architectures plus modernes comme **MVVM (Model-View-ViewModel)**.
 
-## Installation et Démarrage
+## 🚀 Installation et Démarrage
 
 Ces instructions vous guideront pour obtenir une copie du projet et le faire fonctionner sur votre machine locale à des fins de développement et de test.
 
@@ -90,7 +90,7 @@ Ces instructions vous guideront pour obtenir une copie du projet et le faire fon
   <img src="screenshots/village.jpeg" width="200" alt="Exploration des villages">
 </p>
 
-## Contribution
+## 🤝 Contribution
 
 Nous accueillons avec plaisir toutes les contributions ! Si vous souhaitez améliorer **Korean Island**, veuillez suivre les étapes ci-dessous :
 
