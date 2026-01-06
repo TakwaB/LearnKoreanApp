@@ -80,9 +80,15 @@ Ces instructions vous guideront pour obtenir une copie du projet et le faire fon
     *   Sélectionnez un émulateur ou un appareil Android connecté.
     *   Cliquez sur le bouton **Run (▶)** pour compiler et lancer l'application.
 
-## Aperçu (Screenshots)
+## 📸 Aperçu (Screenshots)
 
-*(Ajoutez ici vos captures d’écran pour présenter l'application : écran d’accueil, leçons interactives, carte des îles, profil utilisateur.)*
+<p align="center">
+  <img src="screenshots/acceuil.jpeg" width="200" alt="Écran d'accueil">
+  <img src="screenshots/quiz1.jpeg" width="200" alt="Quiz 1">
+  <img src="screenshots/quiz2.jpeg" width="200" alt="Quiz 2">
+  <img src="screenshots/res.jpeg" width="200" alt="Résultats">
+  <img src="screenshots/village.jpeg" width="200" alt="Exploration des villages">
+</p>
 
 ## Contribution
 
